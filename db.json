@@ -1,4 +1,4 @@
-{
+"settings": {
   "current": {
     "settings": {
       "contact_email": "maicol@dooca.com.br"
@@ -44,4 +44,5 @@
       "banner"
     ]
   }
+}
 }
