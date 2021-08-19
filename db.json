@@ -1,0 +1,47 @@
+{
+  "current": {
+    "settings": {
+      "contact_email": "maicol@dooca.com.br"
+    },
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "opacity": "0",
+          "border_opacity": "1",
+          "product_ids": [
+            1,
+            3
+          ]
+        }
+      },
+      "footer": {
+        "type": "header",
+        "settings": {
+          "opacity": "0",
+          "border_opacity": "1"
+        }
+      },
+      "banner": {
+        "type": "banner",
+        "settings": {
+          "container": "container",
+          "show_logo": false,
+          "title_color": "blue"
+        },
+        "blocks": []
+      },
+      "banner-128372": {
+        "type": "banner",
+        "settings": {
+          "container": "container",
+          "show_logo": false
+        },
+        "blocks": []
+      }
+    },
+    "content_for_index": [
+      "banner"
+    ]
+  }
+}
